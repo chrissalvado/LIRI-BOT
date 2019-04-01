@@ -1,1 +1,2 @@
 # LIRI-BOT
+LIRI BOT is a siri like search application that asks the user to choose either a band name, song name, or movie name . If the user chooses a song name LIRI then returns information on the artist, album, and a preview url for the title. If the user chooses an artist name LIRI returns information on the next concert and the venue for the chosen artist. If the user requests movie name LIRI provides the release date , language, actors , plot summary , as well as IMDB and rotten tomatoes. 
